@@ -1,0 +1,9 @@
+Package: geohex
+Title: GeoHex V3 
+Version: 0.1
+Authors@R: "Aki Atoji<akiatoji@gmail.com> [aut, cre]"
+Description: GeoHex V3 encoding and Decoding for R
+Depends:
+    R (>= 3.1.0)
+License: MIT
+LazyData: true
